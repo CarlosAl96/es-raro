@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@font-face {
+    font-family: "qahiri";
+    src: url("./IndieFlower-Regular.ttf") format("truetype");
+  }
+
+
+.container{
+    background-image: url("./img/fondox.jpg");
+    background-size: cover;
+    text-align: center;
+    width: 330px;
+    min-width: 330px;
+    max-width: 330px;
+    height: 600px;
+    min-height: 600px;
+    max-height: 600px;
+    margin-top: 10px;
+    border-radius: 12px;
+    padding: 30px;
+}
+
+.title{
+    font-family: qahiri;
+}
+
+.text{
+    font-size: 1rem;
+    font-family: qahiri;
+}
+
+#i1{
+    width: 80px;
+    height: 80px;
+}
+
+#i2{
+    width: 50px;
+    height: 50px;
+    padding: 0px;
+}
