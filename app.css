@@ -38,12 +38,12 @@ body{
 }
 
 #i1{
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
 }
 
 #boton{
-    position: absolute;
+    position: fixed;
     bottom: 160px;
     width: 50px;
     height: 50px;
