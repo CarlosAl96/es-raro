@@ -5,7 +5,7 @@ const p4 = "Y hoy es tu día, cuenta la leyenda que un día como hoy Dios estaba
 const p5 = "Tú me causas una obsesión fuera de lo común que me impulsa a seguir explorando tu mente, quiero colonizar cada parte de tu alma y de tu cuerpo pedacito por pedacito hasta que seas 99.99% mía, y sabes la manera posesiva en que lo digo, te quiero tener para mí y conmigo, pero siempre libre."
 const p6 = "Tus besos al menos en mi imaginación y citando a Arabella - Arctic Monkeys son el color de una constelación cayendo y tus labios como el borde de una galaxia, el cielo es menos pintoresco sin ti atrayendo su luz y el horizonte lo intenta pero no es tan agradable como lo eres tu."
 const p7 = "Es raro que viniendo de una persona como yo, tan libre y solitario salga una frase como la que diré, quiero pertenecerte, quiero ser tuyo y lo digo porque lo deseo. <br> Te dedico <br> I Wanna Be Yours - Arctic Monkeys"
-const p8 = "PD: Feliz Cumpleaños MI AMOR"
+const p8 = "PD: Feliz Cumpleaños MI AMOR <br><br> TE QUIERO tanto como decimales tiene &#928"
 let i = 0
 
 let text = document.getElementById('text')
