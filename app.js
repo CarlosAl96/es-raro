@@ -17,6 +17,8 @@ function next_page(){
     if(i == 2){ text.innerHTML = p3 }
     if(i == 3){ text.innerHTML = p4 }
     if(i == 4){ text.innerHTML = p5 }
-    if(i == 5){ text.innerHTML = p6 }
+    if(i == 5){ 
+        text.innerHTML = "<img id='doi' src='./img/6min.png'>"
+    }
     
 }
